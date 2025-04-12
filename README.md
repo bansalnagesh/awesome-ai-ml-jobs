@@ -39,9 +39,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
-* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
-* [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
-* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
+* [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
+* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
+* [Junior Tech Jobs](https://github.com/bansalnagesh/junior-tech-jobs)
+* [Awesome Backend Jobs](https://github.com/bansalnagesh/awesome-backend-jobs)
 * [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
-* [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
+* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
